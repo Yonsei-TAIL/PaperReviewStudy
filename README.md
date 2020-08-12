@@ -1,2 +1,7 @@
-# PaperReviewStudy
-Git repository for paper review study.
+# CCIDS Paper Review Study
+The list of CCIDS paper study and presentation slides.
+
+
+## Paper list
+
+- Example paper name : [Paper Link] [Slides]
