@@ -9,3 +9,6 @@ The list of CCIDS paper study and presentation slides.
 
 2020.08.25
 - Negative Pseudo Labeling using Class Proportion for Semantic Segmentation in Pathology(ECCV2020): [Paper](https://arxiv.org/abs/2007.08044) | [Slides](https://drive.google.com/file/d/1Oh7EOfq3BRRR1BfO0J5BQRV3rz1pnGo9/view)
+
+2020.09.17
+- NLNL: Negative Learning for Noisy Labels: [Paper](https://arxiv.org/abs/1908.07387) | [Slides](https://drive.google.com/file/d/1Ej9ZJLrZ-hWdeLlsL23qoHRYUEhJYPrS/view?usp=sharing)
